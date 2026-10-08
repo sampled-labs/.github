@@ -1,25 +1,33 @@
-<div align="center">
-
 # Sampled Labs
 
-_The decentralized sample marketplace where producers get paid instantly on Stellar_
+**The decentralized sample marketplace where producers get paid instantly on Stellar** — built on **Stellar**.
 
-[![sampled](https://img.shields.io/badge/sampled-8b5cf6?style=for-the-badge)](https://github.com/sampled-labs/sampled)
+**Contents**
 
-</div>
+- [What it is](#what-it-is)
+- [Why Stellar](#why-stellar)
+- [Capabilities](#capabilities)
+- [Repository](#repository)
 
-## What we do
+## What it is
 
 5-second finality, a 90/10 split, and no intermediary holding the money.
 
-1. **Instant payments** — producers get paid immediately, not in a week
-2. **90/10 revenue split** — versus the 30–50% industry standard
-3. **IPFS storage** — content permanence with on-chain metadata and automatic licensing
+## Why Stellar
 
-## Build
+Stellar gives us fast, low-cost settlement and a public ledger; **Soroban** lets the rules live on-chain instead of in a database.
 
-`Soroban` · `Rust` · `React` · `TypeScript` · `IPFS` · `Freighter`
+## Capabilities
+
+- **Instant payments** · producers get paid immediately, not in a week
+- **90/10 revenue split** · versus the 30–50% industry standard
+- **IPFS storage** · content permanence with on-chain metadata and automatic licensing
+
+## Repository
+
+<https://github.com/sampled-labs/sampled>
 
 ---
+*`Soroban` · `Rust` · `React` · `TypeScript` · `IPFS` · `Freighter`* · `Stellar` · `Soroban`
 
-Start here: [sampled-labs/sampled](https://github.com/sampled-labs/sampled)
+· [Stellar](https://stellar.org) · [Soroban](https://soroban.stellar.org) · [Stellar Expert](https://stellar.expert)
